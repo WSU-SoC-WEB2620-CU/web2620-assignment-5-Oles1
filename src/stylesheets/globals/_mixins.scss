@@ -84,3 +84,8 @@
   font-size: 0.95em;
   border-radius: 5px;
 }
+
+@mixin li-first-child {
+  padding-top: 0em;
+  border-top: none;
+}
